@@ -1,7 +1,7 @@
 {
-  "version": 6,
-  "url": "https://skaeglund.github.io/puzzle-explorer-data/app/bundles/6.zip",
-  "sha256": "16e51408b91ea42448446d3f7f07b1106293ed18dacaf73f223e9e72b8e189da",
-  "builtAt": "2026-06-01T10:30:00.501Z",
+  "version": 7,
+  "url": "https://skaeglund.github.io/puzzle-explorer-data/app/bundles/7.zip",
+  "sha256": "8d71e92ca2d56ce29d069d8f26f3458b035c5461d3ddcb4573d0305f279f11ab",
+  "builtAt": "2026-06-07T02:21:17.928Z",
   "minNative": 1
 }
